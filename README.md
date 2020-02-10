@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ghostwriter
 
 Enhanced port of the Ghost "[ghostwriter](https://github.com/roryg/ghostwriter)" theme to the [Hugo](https://gohugo.io) site generator.
@@ -119,3 +120,7 @@ disqusShortname = "XXX"
 
 You can also inject arbitrary HTML into `<head>` simply by overriding the `extra-in-head.html`
 partial, which is meant for that purpose.
+=======
+# blog
+Personal Blog
+>>>>>>> remotes/origin/master
