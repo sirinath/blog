@@ -1,10 +1,9 @@
-baseurl = "https://example.com/"
-title = "Ghostwriter example"
+baseurl = "https://sirinath.com/blog/"
+title = "Suminda Sirinath Salpitikorala Dharmasena"
 theme = "ghostwriter"
-languageCode = "en-us"
-copyright = "My Name"
-disqusShortname = "XXX"
-googleAnalytics = "XXX"
+languageCode = "en-uk"
+copyright = "Suminda Sirinath Salpitikorala Dharmasena"
+googleAnalytics = "212090575"
 
 [Privacy]
 
@@ -12,13 +11,13 @@ googleAnalytics = "XXX"
     disable = true
 
 [Privacy.googleAnalytics]
-    anonymizeIP = true
-    respectDoNotTrack = true
+    anonymizeIP = false
+    respectDoNotTrack = false
     useSessionStorage = false
 
 [Author]
-    name = "My Name"
-    profile = "https://google.com/+XXX"
+    name = "Suminda Sirinath Salpitikorala Dharmasena"
+    profile = "https://twitter.com/sirinath"
 
 [Taxonomies]
     tag = "tags"
@@ -28,20 +27,20 @@ googleAnalytics = "XXX"
     intro = true
     headline = "Ghostwriter example"
     description = "Ghostwriter example description"
-    github = "https://github.com/XXX"
-    gitlab = "https://gitlab.com/XXX"
-    linkedin = "https://linkedin.com/in/XXX/"
-    gplus = "https://google.com/+XXX"
-    twitter = "https://twitter.com/XXX"
-    stackoverflow = "https://stackoverflow.com/users/XXX/YYY"
-    facebook = "https://www.facebook.com/username"
-    email = "XXX@example.com"
+    github = "https://github.com/sirinath"
+    gitlab = "https://gitlab.com/sirinath"
+    linkedin = "https://linkedin.com/in/sirinath/"
+    gplus = "https://google.com/+sirinath"
+    twitter = "https://twitter.com/sirinath"
+    stackoverflow = "https://stackoverflow.com/users/676644/suminda-sirinath-s-dharmasena"
+    facebook = "https://www.facebook.com/sirinath"
+    email = "me@sirinath.com"
     opengraph = true
     shareTwitter = true
     shareFacebook = true
     shareGooglePlus = true
     shareLinkedIn = false
-    dateFormat = "Mon, Jan 2, 2006"
+    dateFormat = "Mon, 2 Jan 2006"
     highlightJsUrl = ""
     highlightJsLocalUrl = ""
     exponeaJsUrl = ""
