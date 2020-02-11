@@ -1,0 +1,68 @@
+baseurl = "https://sirinath.com/"
+title = "Suminda Sirinath Salpitikorala Dharmasena"
+theme = "ghostwriter"
+languageCode = "en-uk"
+copyright = "Suminda Sirinath Salpitikorala Dharmasena"
+googleAnalytics = "212090575"
+
+[Privacy]
+
+[Privacy.disqus]
+    disable = true
+
+[Privacy.googleAnalytics]
+    anonymizeIP = false
+    respectDoNotTrack = false
+    useSessionStorage = false
+
+[Author]
+    name = "Suminda Sirinath Salpitikorala Dharmasena"
+    profile = "https://twitter.com/sirinath"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "SuperWriter Theme"
+    description = "SuperWriter Theme"
+    github = "https://github.com/sirinath"
+    gitlab = "https://gitlab.com/sirinath"
+    linkedin = "https://linkedin.com/in/sirinath/"
+    twitter = "https://twitter.com/sirinath"
+    stackoverflow = "https://stackoverflow.com/users/676644/suminda-sirinath-s-dharmasena"
+    facebook = "https://www.facebook.com/sirinath"
+    email = "me@sirinath.com"
+    opengraph = true
+    shareTwitter = true
+    shareFacebook = true
+    shareGooglePlus = true
+    shareLinkedIn = true
+    dateFormat = "Mon, 2 Jan 2006"
+    readingTime = true
+    readingTimeText = "Estimated reading time:"
+	enableRobotsTXT = true
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Projects"
+    url = "/project/"
+    weight = 2
+
+[[menu.main]]
+    name = "Contact"
+    url = "/page/contact/"
+    weight = 3
+
+[[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 4
