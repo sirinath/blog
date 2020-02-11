@@ -30,7 +30,6 @@ googleAnalytics = "212090575"
     github = "https://github.com/sirinath"
     gitlab = "https://gitlab.com/sirinath"
     linkedin = "https://linkedin.com/in/sirinath/"
-    gplus = "https://google.com/+sirinath"
     twitter = "https://twitter.com/sirinath"
     stackoverflow = "https://stackoverflow.com/users/676644/suminda-sirinath-s-dharmasena"
     facebook = "https://www.facebook.com/sirinath"
@@ -51,6 +50,7 @@ googleAnalytics = "212090575"
     readingTimeText = "Estimated reading time:"
     fathomUrl = ""
     fathomSiteId = ""
+	enableRobotsTXT = true
 
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
