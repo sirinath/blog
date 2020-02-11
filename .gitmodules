@@ -1,6 +1,6 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/sirinath/sirinath.github.io.git
-[submodule "SuperWriter"]
+[submodule "themes/SuperWriter"]
 	path = themes/SuperWriter
 	url = https://github.com/sirinath/SuperWriter.git
