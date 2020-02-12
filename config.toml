@@ -25,8 +25,8 @@ googleAnalytics = "212090575"
 [Params]
     mainSections = ["post"]
     intro = true
-    headline = "SuperWriter Theme"
-    description = "SuperWriter Theme"
+    headline = "Suminda Sirinath Salpitikorala Dharmasena"
+    description = "Thoughts on tech, Buddhism and other topics"
     github = "https://github.com/sirinath"
     gitlab = "https://gitlab.com/sirinath"
     linkedin = "https://linkedin.com/in/sirinath/"
