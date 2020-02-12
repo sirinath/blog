@@ -1,9 +1,9 @@
 baseurl = "https://sirinath.com/"
-title = "Blog"
+title = "Inventing the Future"
 theme = "SuperWriter"
 languageCode = "en-uk"
 copyright = "Suminda Sirinath Salpitikorala Dharmasena"
-googleAnalytics = "212090575"
+googleAnalytics = "UA-145822680-1"
 
 [Privacy]
 
@@ -25,8 +25,8 @@ googleAnalytics = "212090575"
 [Params]
     mainSections = ["post"]
     intro = true
-    headline = "Suminda Sirinath Salpitikorala Dharmasena"
-    description = "Thoughts on tech, Buddhism and other topics"
+    headline = "Inventing the Future"
+    description = "Flash and Inspiration"
     github = "https://github.com/sirinath"
     gitlab = "https://gitlab.com/sirinath"
     linkedin = "https://linkedin.com/in/sirinath/"
@@ -43,6 +43,10 @@ googleAnalytics = "212090575"
     readingTime = true
     readingTimeText = "Estimated reading time:"
 	enableRobotsTXT = true
+	UtterancesRepo = "sirinath/blog"
+    UtterancesIssueTerm = "title"
+	UtterancesLabel = "Comment"
+    UtterancesTheme = "github-light"
 
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
