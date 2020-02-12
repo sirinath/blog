@@ -1,6 +1,8 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/sirinath/sirinath.github.io.git
+	update = merge
 [submodule "themes/SuperWriter"]
 	path = themes/SuperWriter
 	url = https://github.com/sirinath/SuperWriter.git
+	update = merge
