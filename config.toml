@@ -25,7 +25,7 @@ googleAnalytics = "UA-145822680-1"
     tag = "tags"
 
 [Params]
-    mainSections = ["post"]
+    mainSections = ["posts"]
     intro = true
     headline = "Suminda Sirinath Salpitikorala Dharmasena"
     description = "Flashes of inspirations"
@@ -61,15 +61,15 @@ googleAnalytics = "UA-145822680-1"
 
 [[menu.main]]
     name = "Projects"
-    url = "/page/projects/"
+    url = "/pages/projects/"
     weight = 2
 
 [[menu.main]]
     name = "Contact"
-    url = "/page/contact/"
+    url = "/pages/contact/"
     weight = 3
 
 [[menu.main]]
     name = "About"
-    url = "/page/about/"
+    url = "/pages/about/"
     weight = 4

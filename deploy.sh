@@ -17,5 +17,4 @@ fi
 
 git add .
 git commit -m "Rebuild site"
-git merge origin/master
 git push --force --recurse-submodules=check origin HEAD:master
