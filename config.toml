@@ -21,19 +21,21 @@ googleAnalytics = "UA-145822680-1"
 
 [Taxonomies]
     category = "categories"
+	series = "series"
     tag = "tags"
 
 [Params]
     mainSections = ["post"]
     intro = true
     headline = "Suminda Sirinath Salpitikorala Dharmasena"
-    description = "Flash of inspirations"
+    description = "Flashes of inspirations"
     github = "https://github.com/sirinath"
     gitlab = "https://gitlab.com/sirinath"
+	facebook = "https://www.facebook.com/sirinath"
     linkedin = "https://linkedin.com/in/sirinath/"
     twitter = "https://twitter.com/sirinath"
     stackoverflow = "https://stackoverflow.com/users/676644/suminda-sirinath-s-dharmasena"
-    facebook = "https://www.facebook.com/sirinath"
+	quora = "https://www.quora.com/profile/Suminda-Sirinath-Salpitikorala-Dharmasena"
     email = "me@sirinath.com"
     opengraph = true
     shareTwitter = true
@@ -59,15 +61,15 @@ googleAnalytics = "UA-145822680-1"
 
 [[menu.main]]
     name = "Projects"
-    url = "/project/"
+    url = "/pages/project/"
     weight = 2
 
 [[menu.main]]
     name = "Contact"
-    url = "/contact/"
+    url = "/pages/contact/"
     weight = 3
 
 [[menu.main]]
     name = "About"
-    url = "/about/"
+    url = "/pages/about/"
     weight = 4
