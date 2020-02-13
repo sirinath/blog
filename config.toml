@@ -17,7 +17,7 @@ googleAnalytics = "UA-145822680-1"
 
 [Author]
     name = "Suminda Sirinath Salpitikorala Dharmasena"
-    profile = "https://twitter.com/sirinath"
+    profile = "/pages/about/"
 
 [Taxonomies]
     category = "categories"
