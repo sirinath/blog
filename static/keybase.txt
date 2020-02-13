@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/sirinath
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sirinath.com
+  * I am sirinath (https://keybase.io/sirinath) on keybase.
+  * I have a public key ASCMsE-YHCrF2S2iZuwegi6-w8-kFHEVKp1I1tdnDPsrKQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208cb04f981c2ac5d92da266ec1e822ebec3cfa41471152a9d48d6d7670cfb2b290a",
+      "host": "keybase.io",
+      "kid": "01208cb04f981c2ac5d92da266ec1e822ebec3cfa41471152a9d48d6d7670cfb2b290a",
+      "uid": "221431d1953bf98c62b7ab516f56e019",
+      "username": "sirinath"
+    },
+    "merkle_root": {
+      "ctime": 1539771929,
+      "hash": "e5c113955c73f7130b827f838a86de5bfc8386485be583371ab4bc9f8f0ef1a5229f9f5e250e7b2d3950ff7fccbf67162b5089fb24091793b8effaa8aa35d7fa",
+      "hash_meta": "19c5f4a4d94641fc1fe0b0df73c984854809c6d8144c45792ad37302ed5bd774",
+      "seqno": 3808188
+    },
+    "service": {
+      "entropy": "BSg6LbgR6DyU+fbDvUut8j2c",
+      "hostname": "sirinath.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.7.3"
+  },
+  "ctime": 1539771965,
+  "expire_in": 504576000,
+  "prev": "f713955de0587c6b023cac3dd2f0a1f659873237f07636020407888a2ad942a7",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjLBPmBwqxdktombsHoIuvsPPpBRxFSqdSNbXZwz7KykKp3BheWxvYWTESpcCC8Qg9xOVXeBYfGsCPKw90vCh9lmHMjfwdjYCBAeIiirZQqfEIDsDipWAKuC2wIFg2Y68xokO0hFiooby9pIYuh051rRbAgHCo3NpZ8RAJ3pqqW9JVW99XkAO1U4Ygpnuz2f6dMoaaMNmiYNoLCvUN/kHmDSD56iX1mhVPP7QYT8zg2jF0U6CQ6qy5YAIC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJIDwEOgBamhew0FtadaG1aesb65xcpTi6Qa7obZqrkxo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sirinath
+
+==================================================================
