@@ -1,4 +1,4 @@
-baseurl = "https://sirinath.com/"
+baseurl = "http://sirinath.com/"
 title = "Suminda Sirinath Salpitikorala Dharmasena"
 theme = "SuperWriter"
 languageCode = "en-uk"
@@ -61,7 +61,7 @@ googleAnalytics = "UA-145822680-1"
 
 [[menu.main]]
     name = "Projects"
-    url = "/pages/project/"
+    url = "/pages/projects/"
     weight = 2
 
 [[menu.main]]
