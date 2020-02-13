@@ -18,4 +18,4 @@ fi
 git add .
 git commit -m "Rebuild site"
 git merge origin/master
-git push --force origin HEAD:master
+git push --force --recurse-submodules=on-demand origin HEAD:master
