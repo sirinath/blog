@@ -25,7 +25,7 @@ googleAnalytics = "UA-145822680-1"
     tag = "tags"
 
 [Params]
-    mainSections = ["post"]
+    mainSections = ["posts"]
     intro = true
     headline = "Suminda Sirinath Salpitikorala Dharmasena"
     description = "Flashes of inspirations"
