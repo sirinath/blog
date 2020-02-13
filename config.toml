@@ -1,5 +1,5 @@
 baseurl = "https://sirinath.com/"
-title = "Inventing the Future"
+title = "Suminda Sirinath Salpitikorala Dharmasena"
 theme = "SuperWriter"
 languageCode = "en-uk"
 copyright = "Suminda Sirinath Salpitikorala Dharmasena"
@@ -20,13 +20,14 @@ googleAnalytics = "UA-145822680-1"
     profile = "https://twitter.com/sirinath"
 
 [Taxonomies]
+    category = "categories"
     tag = "tags"
 
 [Params]
     mainSections = ["post"]
     intro = true
-    headline = "Inventing the Future"
-    description = "Flash and Inspiration"
+    headline = "Suminda Sirinath Salpitikorala Dharmasena"
+    description = "Flash of inspirations"
     github = "https://github.com/sirinath"
     gitlab = "https://gitlab.com/sirinath"
     linkedin = "https://linkedin.com/in/sirinath/"
@@ -63,10 +64,10 @@ googleAnalytics = "UA-145822680-1"
 
 [[menu.main]]
     name = "Contact"
-    url = "/page/contact/"
+    url = "/contact/"
     weight = 3
 
 [[menu.main]]
     name = "About"
-    url = "/page/about/"
+    url = "/about/"
     weight = 4
