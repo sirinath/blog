@@ -16,5 +16,11 @@ then
 fi
 
 git add .
-git commit -m "Rebuild site"
-git push --force --recurse-submodules=check origin HEAD:master
+
+msg="rebuilding site $(date)"
+if [ -n "$*" ]; then
+	msg="$*"
+fi
+git commit -m "$msg"
+
+git push --force --recurse-submodules=check origin master
