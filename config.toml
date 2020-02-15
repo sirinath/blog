@@ -25,6 +25,7 @@ googleAnalytics = "UA-145822680-1"
     tag = "tags"
 
 [Params]
+	logo = "/pexels-man-male-smart-businessman-59554.jpg"
     mainSections = ["posts"]
     intro = true
     headline = "Suminda Sirinath Salpitikorala Dharmasena"

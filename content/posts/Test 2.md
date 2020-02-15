@@ -8,7 +8,7 @@ series = ["test"]
 tags = ["test", "second"]
 math = false
 draft = false
-featured = false
+featured = true
 Summary = ""
 +++
 
