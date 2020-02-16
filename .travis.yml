@@ -18,7 +18,7 @@ before_script:
   - cd $TRAVIS_BUILD_DIR
 
 script:
-  - hugo --minify --cleanDestinationDir --enableGitInfo
+  - hugo --minify --enableGitInfo
   
 before_deploy:
   - cd $TRAVIS_BUILD_DIR
