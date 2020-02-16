@@ -15,6 +15,8 @@ then
     git config user.name "sirinath-bot"
 fi
 
+echo "gitdir: ../.git/modules/public" > ~/.git
+
 git add .
 
 msg="rebuilding site $(date)"
