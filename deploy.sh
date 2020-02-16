@@ -23,4 +23,4 @@ if [ -n "$*" ]; then
 fi
 git commit -m "$msg"
 
-git push --force --recurse-submodules=check origin master
+git push --force --recurse-submodules=check origin HEAD:master
