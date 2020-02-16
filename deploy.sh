@@ -15,7 +15,7 @@ then
     git config user.name "sirinath-bot"
 fi
 
-echo "gitdir: ../.git/modules/public" > ~/.git
+echo "gitdir: ../.git/modules/public" > public/.git
 
 git add .
 
